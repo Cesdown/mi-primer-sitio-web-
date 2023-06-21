@@ -18,6 +18,8 @@
   <h4> Hacks </h4>
   <p> En esta sección vas a encontrar diferentes hacks de juegos muy conocidos que se iran actualizando cada semana o con recomendaciones de los mismos por ejemplo esta semana tenemos el siguiente hack.
   <h5> The legend of zelda parallel worlds </h5>
+    ![197titlescreen](https://github.com/Cesdown/mi-primer-sitio-web-/assets/137240670/2012646f-c6df-4e5b-b651-4c337fc1c15f)
+
   <p> mucha gente ya conoce el conocido a link to the past pues una pareja de hackers decideieron darle una vuelta de cara a todo el juego entero añadiendo nuevas cosas cono mazmorras, una nueva historia y cambios en el mapa eso si el juego cuenta con una dificultad alta ya que requiere tecnicas complejas para poder pasar pero si eres uns persona que te gusto past y quieres volver a jugarlo sin importar la dificultad este juego es para ti.
   <h6> Super mario world central production 2 </h2>
   
